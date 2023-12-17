@@ -1,0 +1,7 @@
+Name	Start Date	Priority	Cost Estimate	Completion Percentage
+Organise Pantry	20/07/2022	1	25.0	55
+Build Car Park	12/09/2021	0	600000.0	100
+Mow Lawn	31/10/2022	0	3.0	100
+Organise Pantry	20/07/2022	0	25.0	100
+Record Music Video	01/12/2022	0	250000.0	100
+Read 7 Habits Book	13/12/2021	6	99.0	100
